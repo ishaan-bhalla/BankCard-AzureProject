@@ -1,7 +1,3 @@
-Certainly! Here's the revised README without images:
-
----
-
 # FRT-Project
 
 This repository hosts the final project of my Future Ready Talent Internship. The project was created and hosted using Microsoft Azure services, including Azure QnA Maker, Azure Web Bot, and Azure Static Web App. The project is a comprehensive banking website featuring a Chat Bot.
